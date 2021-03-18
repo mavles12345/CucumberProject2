@@ -4,5 +4,6 @@ Feature: Verifying Adactine home page details
     Given User is on the facebook page 
     When User should enter the "<userName>", "<passWord>" 
     And click the login button
+    And click the login button new one
     
     
